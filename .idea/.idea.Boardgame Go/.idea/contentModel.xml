@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\FIT\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\FIT\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_Boardgame Go.573134047.00" t="ExcludeRecursive" />
+    <e p="C:\Users\FIT\Desktop\Soal\Boardgame Go" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AssetBundleCreate.cs" t="Include" />
+          <e p="AssetBundleLoader.cs" t="Include" />
+          <e p="Network" t="Include">
+            <e p="JsonHelper.cs" t="Include" />
+            <e p="Scriptable" t="Include">
+              <e p="PostData.cs" t="Include" />
+              <e p="UserData.cs" t="Include" />
+            </e>
+            <e p="WebRequester.cs" t="Include" />
+          </e>
+          <e p="Puzzle" t="Include">
+            <e p="GoManager.cs" t="Include" />
+            <e p="Grid.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Boardgame Go.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
